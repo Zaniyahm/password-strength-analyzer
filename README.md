@@ -9,7 +9,7 @@ This Python project helps users check the strength of their passwords using the 
 - Generate targeted wordlists with leetspeak
 - GUI using `tkinter`
 
-## 🚀 How to Run
+## 🚀 How to Run???
 
 ### 1. Install Requirements
 `pip install -r requirements.txt`
@@ -22,8 +22,3 @@ This Python project helps users check the strength of their passwords using the 
 
 ### 4. Use the GUI
 `python ui.py`
-
-
-
-
-
